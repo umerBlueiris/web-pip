@@ -11,6 +11,7 @@
 			
 			<div class="carousel-inner" role="listbox">
 				<!-- Slide 1 -->
+                
 				<div class="carousel-item active" style="background-image: url(assets/img/slide/slide-3.png)">
 					<div class="carousel-container">
 						<div class="container">
