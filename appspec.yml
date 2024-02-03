@@ -5,19 +5,19 @@ files:
     destination: /var/www/html/assets/css/
 
   - source: /var/www/html/include/header.php
-    destination: /var/www/html/include/header/
+    destination: /var/www/html/include/header
 
   - source: /var/www/html/include/footer.php
-    destination: /var/www/html/include/footer/
+    destination: /var/www/html/include/footer
 
   - source: /var/www/html/include/menu.php
-    destination: /var/www/html/include/menu/
+    destination: /var/www/html/include/menu
 
   - source: /var/www/html/index.php
-    destination: /var/www/html/
+    destination: /var/www/html
 
   - source: /var/www/html/about.php
-    destination: /var/www/html/
+    destination: /var/www/html
 
   - source: /var/www/html/furjan.php
-    destination: /var/www/html/
+    destination: /var/www/html
