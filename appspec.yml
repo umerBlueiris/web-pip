@@ -4,13 +4,13 @@ files:
   - source: /assets/css/style1.css
     destination: /var/www/html/assets/css/
 
-  - source: /include/header/
+  - source: /include/header.php
     destination: /var/www/html/include/header/
 
-  - source: /include/footer/
+  - source: /include/footer.php
     destination: /var/www/html/include/footer/
 
-  - source: /include/menu/
+  - source: /include/menu.php
     destination: /var/www/html/include/menu/
 
   - source: /index.php
