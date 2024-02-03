@@ -1,6 +1,23 @@
 version: 0.0
 os: linux
 files:
-  - source: /*
-    destination: /var/www/html
+  - source: /assets/css/style1.css
+    destination: /var/www/html/assets/css/
 
+  - source: /include/header/
+    destination: /var/www/html/include/header/
+
+  - source: /include/footer/
+    destination: /var/www/html/include/footer/
+
+  - source: /include/menu/
+    destination: /var/www/html/include/menu/
+
+  - source: /index.php
+    destination: /var/www/html/
+
+  - source: /about.php
+    destination: /var/www/html/
+
+  - source: /furjan.php
+    destination: /var/www/html/
