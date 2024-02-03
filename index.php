@@ -11,13 +11,13 @@
 			
 			<div class="carousel-inner" role="listbox">
 				<!-- Slide 1 -->
-                
+
 				<div class="carousel-item active" style="background-image: url(assets/img/slide/slide-3.png)">
 					<div class="carousel-container">
 						<div class="container">
 							<span class="animate__animated animate__fadeInUp subhead">Projects</span>
 							<h2 class="animate__animated animate__fadeInDown">Vento Tower</h2>
-							<p class="animate__animated animate__fadeInUp">Embrace luxury in its full essence</p>
+							<p class="animate__animated animate__fadeInUp">Embrace</p>
 							<a href="ventotower.php" class="btn-get-started animate__animated animate__fadeInUp scrollto hover-switch"><img src="assets/img/white_arrow-up-right.svg" alt="" /><img src="assets/img/akar-icons_arrow-up-right.svg" alt="" />&nbsp;&nbsp;Discover More</a>
 						</div>
 					</div>
